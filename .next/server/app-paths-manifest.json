@@ -1,0 +1,7 @@
+{
+  "/dashboard/orcamentos/novo/page": "app/dashboard/orcamentos/novo/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/perfil/page": "app/dashboard/perfil/page.js",
+  "/dashboard/orcamentos/page": "app/dashboard/orcamentos/page.js",
+  "/dashboard/orcamentos/[id]/page": "app/dashboard/orcamentos/[id]/page.js"
+}
